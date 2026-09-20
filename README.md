@@ -64,25 +64,12 @@ Tender / Procurement Requirement
 
 ## Screenshots
 
-### 1. Dashboard
-<img width="1600" height="899" alt="image" src="https://github.com/user-attachments/assets/e516b86b-692b-4709-ab12-2bdd5088906d" />
 
+<img width="1600" height="772" alt="WhatsApp Image 2026-09-20 at 4 37 44 PM" src="https://github.com/user-attachments/assets/9f91ad53-c1ab-49fb-9a3b-a65fae20a699" />
+<img width="1600" height="769" alt="WhatsApp Image 2026-09-20 at 4 36 16 PM" src="https://github.com/user-attachments/assets/7ae82e78-ecc5-4699-9869-7442ca9f1175" />
+<img width="1600" height="899" alt="WhatsApp Image 2026-09-20 at 4 32 45 PM" src="https://github.com/user-attachments/assets/994a080e-9bf0-41ce-ad59-779d6123676e" />
+<img width="1600" height="899" alt="WhatsApp Image 2026-09-20 at 4 31 27 PM" src="https://github.com/user-attachments/assets/52542964-9d47-43c4-b79e-c44fb16af660" />
+<img width="1600" height="899" alt="WhatsApp Image 2026-09-20 at 4 30 41 PM" src="https://github.com/user-attachments/assets/f850a89b-be54-4576-8434-88ea1a4f6b0d" />
+<img width="1600" height="900" alt="WhatsApp Image 2026-09-20 at 4 29 43 PM" src="https://github.com/user-attachments/assets/a72e5565-0e9b-4195-ae6c-8baca068259c" />
+<img width="1600" height="899" alt="WhatsApp Image 2026-09-20 at 4 29 01 PM (1)" src="https://github.com/user-attachments/assets/288e5de6-2714-4411-854b-e18e697b8c91" />
 
-### 2. Tender Input
-<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/70bb466d-be73-4749-baed-51ebb1b13cc1" />
-
-
-### 3. AI-Generated Explanation
-<img width="1600" height="899" alt="image" src="https://github.com/user-attachments/assets/3da91c7b-25d4-47e8-b5ec-c4d0134aaf13" />
-<img width="1600" height="899" alt="image" src="https://github.com/user-attachments/assets/df8ec4c7-7061-42d6-8044-e539fbec2ae5" />
-
-
-### 4. Officer Review
-<img width="1600" height="772" alt="image" src="https://github.com/user-attachments/assets/e4282c10-47c4-46c6-aefc-2992676cd829" />
-
-### 5. Standards PDF Bundle
-<img width="1600" height="769" alt="image" src="https://github.com/user-attachments/assets/1c75b26b-32bd-441f-93ce-bffc580a8f71" />
-
-
-### 6. Audit-Chain Verification
-<img width="1600" height="899" alt="image" src="https://github.com/user-attachments/assets/31e8f727-5404-405f-89ce-93be27d5eee4" />
