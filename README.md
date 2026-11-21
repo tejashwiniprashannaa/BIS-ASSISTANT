@@ -1,64 +1,38 @@
-@"
 # BIS Standards Assistant
+**Privacy-First RAG & Compliance Engine for Government Procurement**
 
-AI-Powered RAG Engine for Indian Standards and Government Procurement
+> Eliminating tender compliance rejections by mapping complex procurement requirements to verified Bureau of Indian Standards (BIS), QCO, and CRS mandates—powered by a local LLM and secured with a tamper-proof SHA-256 audit trail.
 
-## Overview
+---
 
-BIS Standards Assistant is an AI-assisted procurement standards analysis system designed to help users identify relevant Bureau of Indian Standards (BIS) standards from tender requirements.
+## The Problem
+Procurement officers and MSME vendors spend hours manually cross-referencing thousands of BIS standards, Quality Control Orders (QCOs), and Compulsory Registration Scheme (CRS) rules against tender documents. Missing a single mandatory standard leads to bid disqualification, legal delays, and compliance penalties.
 
-The system uses Retrieval-Augmented Generation (RAG) to retrieve relevant BIS standards from a curated knowledge base and uses a local LLM to generate grounded explanations.
+## Why This Solution Stands Out
+* **100% Air-Gapped Data Privacy:** Runs locally via **Ollama**, ensuring confidential government tender drafts never leave the internal network.
+* **Tamper-Proof Accountability:** Every AI recommendation and officer approval is logged in a **SHA-256 hash-chain audit trail** with built-in integrity verification.
+* **Actionable Compliance Metadata:** Goes beyond text search by surfacing mandatory QCO/CRS flags, related IS codes, and export-ready PDF compliance reports.
 
-## Key Features
-
-- Tender requirement analysis
-- AI-assisted BIS standard retrieval
-- Semantic search using vector embeddings
-- RAG-based explanations
-- Certification requirement information
-- QCO and CRS metadata
-- AI-detected related standards
-- Structured procurement requirement extraction
-- Officer review workflow
-- SHA-256 hash-chain audit trail
-- Audit integrity verification
-- PDF report generation
+---
 
 ## System Architecture
-
 ```text
-Tender / Procurement Requirement
-              |
-              v
-     Requirement Analysis
-              |
-              v
-      Sentence Transformers
-          (Embeddings)
-              |
-              v
-          ChromaDB
-     Semantic Retrieval
-              |
-              v
-     Relevant BIS Standards
-              |
-              v
-    Certification Metadata
-              |
-              v
-       Local LLM (Ollama)
-              |
-              v
-      Grounded Explanation
-              |
-              v
-        Officer Review
-              |
-              v
-        Audit Trail
-       SHA-256 Hash Chain
-```
+Tender Document / Requirement
+       │
+       ▼
+Structured Requirement Extraction
+       │
+       ▼
+Sentence Transformers (Embeddings) ──► ChromaDB (Vector Store)
+       │
+       ▼
+Relevant BIS Standards + QCO/CRS Metadata
+       │
+       ▼
+Local LLM (Ollama) ──► Grounded Compliance Explanation
+       │
+       ▼
+Officer Review Workflow ──► SHA-256 Hash-Chain Audit Trail ──► PDF Report
 
 ## Screenshots
 
